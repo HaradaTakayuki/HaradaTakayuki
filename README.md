@@ -1,7 +1,7 @@
 <h1 align="center">HarPon ハラポン</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kazutan1230&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazutan1230&layout=compact&theme=tokyonight" alt="profile">
+<img src="https://github-readme-stats.vercel.app/api?username=HaradaTakayuki&show_icons=true&theme=tokyonight&card_width=300" alt="profile">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaradaTakayuki&layout=compact&theme=tokyonight" alt="profile">
 
 <h2 align="center">Knowledge</h2>
 
